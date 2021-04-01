@@ -1,0 +1,2 @@
+rootProject.name='截图生成'
+include ':app'
